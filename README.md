@@ -5,7 +5,6 @@
 </p>
 
 ### 💻 About Me
-- 🎓 Student at **Higher Institute of Obour** (Management & Info Systems).
 - 🐧 **Linux Enthusiast:** Currently ricing **Arch Linux** with **Hyprland** and **Waybar**.
 - 🛠️ **Current Project:** Automating video workflows for **DaVinci Resolve** on Linux.
 
