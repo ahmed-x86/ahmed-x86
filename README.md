@@ -21,13 +21,16 @@ Currently working on improving developer workflows on **Linux and Windows**.
 
 ---
 
+
 # 🐧 My Linux Setup
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/hyprwm/Hyprland/main/.github/assets/Hyprland.svg" width="120"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" width="90"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Waybar_logo.png" width="120"/>
+  <img src="https://raw.githubusercontent.com/ahmed-x86/hyprland_dotfiles/main/screenshot_2026-02-07_19-23-34.png" width="300"/>
+  <img src="https://raw.githubusercontent.com/ahmed-x86/hyprland_dotfiles/main/screenshot_2026-02-07_10-21-48.png" width="300"/>
+  <img src="https://raw.githubusercontent.com/ahmed-x86/hyprland_dotfiles/main/screenshot_2026-02-07_17-03-54.png" width="300"/>
 </p>
+
+
 
 **OS:** Arch Linux (BTW)  
 **WM:** Hyprland  
@@ -52,13 +55,14 @@ Features:
 - Windows + Linux support
 - One command installation
 - Designed for students learning Assembly
+## for linux
 
 ```
 
 bash <(curl -sSL [https://raw.githubusercontent.com/ahmed-x86/asm/main/install-linux.sh](https://raw.githubusercontent.com/ahmed-x86/asm/main/install-linux.sh))
 
 ```
-
+### for windows
 ```
 irm https://raw.githubusercontent.com/ahmed-x86/asm/refs/heads/main/install-windows.ps1 | iex
 ```
@@ -154,19 +158,8 @@ A collection of useful scripts I wrote for:
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ahmed-x86&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-x86&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-# 🐧 Philosophy
+# 🎯 (Principles)
 
 <p align="center">
   
@@ -179,7 +172,6 @@ A collection of useful scripts I wrote for:
 
 # ⚡ Fun Fact
 
-```
 
 I once thought Arch Linux was impossible to use.
 
@@ -187,7 +179,6 @@ Now...
 
 I use Arch BTW.
 
-```
 
 ---
 
