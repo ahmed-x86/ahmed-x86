@@ -10,7 +10,7 @@
 
 ### 🛠 Tech Stack
 - **OS:** Arch Linux (BTW)
-- **Languages:** Bash, Python, C
+- **Languages:** Bash, C++
 - **Tools:** Git, Neovim, Hyprland, DaVinci Resolve
 - **Hardware:** HP ZBook 15 G3 (Nvidia Quadro M1000M)
 
