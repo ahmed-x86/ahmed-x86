@@ -56,13 +56,11 @@ Features:
 - Designed for students learning Assembly
 ## for linux
 
-```
-
+```bash
 bash <(curl -sSL [https://raw.githubusercontent.com/ahmed-x86/asm/main/install-linux.sh](https://raw.githubusercontent.com/ahmed-x86/asm/main/install-linux.sh))
-
 ```
 ### for windows
-```
+```powershell
 irm https://raw.githubusercontent.com/ahmed-x86/asm/refs/heads/main/install-windows.ps1 | iex
 ```
 
