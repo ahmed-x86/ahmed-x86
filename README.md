@@ -182,7 +182,7 @@ I use Arch BTW.
 <p align="center">
 🔥 Powered by Linux • Built with passion • Driven by curiosity
 </p>
-```
+
 
 ---
 
