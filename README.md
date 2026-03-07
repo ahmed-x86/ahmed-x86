@@ -64,6 +64,11 @@ bash <(curl -sSL [https://raw.githubusercontent.com/ahmed-x86/asm/main/install-l
 ```powershell
 irm https://raw.githubusercontent.com/ahmed-x86/asm/refs/heads/main/install-windows.ps1 | iex
 ```
+### for windows 7
+```powershell
+irm https://raw.githubusercontent.com/ahmed-x86/asm/refs/heads/main/install-windows7.ps1 | iex
+```
+
 
 ---
 
@@ -138,17 +143,10 @@ A collection of useful scripts I wrote for:
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
 <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white"/>
-
-
-<br>
-
 <img src="https://img.shields.io/badge/Ubuntu-E9433F?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"/>
 <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"/>
 <img src="https://img.shields.io/badge/CachyOS-0080FF?style=for-the-badge&logo=arch-linux&logoColor=white"/>
-
-<br>
-
 <img src="https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 
